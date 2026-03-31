@@ -4,7 +4,7 @@
 const API = {
   // OMDB API Configuration
   // หาได้ที่: https://www.omdbapi.com/apikey.aspx
-  API_KEY: "80ee1263", // ⚠️ แก้ตรงนี้ด้วย API key ของคุณ
+  API_KEY: "e29081a", // ⚠️ แก้ตรงนี้ด้วย API key ของคุณ
   BASE_URL: "https://www.omdbapi.com",
 
   // Cache ข้อมูลเพื่อลด API calls
